@@ -4,8 +4,10 @@
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995774213)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://hugov6167@gmail.com)
 
-
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorBR116&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorBR116)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu estudo
 
