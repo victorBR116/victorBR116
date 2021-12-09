@@ -18,5 +18,5 @@
   <img aling="center" alt "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div></br>
 
-Movido a curiosidade!<br>
-Em algum lugar, algo incrível está esperando para ser descoberto.
+Movido a curiosidade! <br>
+Em algum lugar, algo incrível está esperando para ser descoberto. 🌌
