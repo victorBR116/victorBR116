@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorBR116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu estudo ou tenho curiosidade! 😃
+## Tecnologias que eu estudo ou tenho curiosidade!
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt "PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
